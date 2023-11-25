@@ -1,0 +1,40 @@
+Back-end
+Front-end
+Home page
+Computer
+Backup
+Bug
+Database
+Input
+Output
+Update
+Desktop
+Artificial Intelligence
+Cloud computing
+Hard drive
+Debug
+Software
+Developer
+Python
+Java
+JavaScript
+HTML
+Flutter
+Google colab
+Visual Studio Code
+VisualG
+Electronic Numerical Integrator and Computer 
+Ada Lovelace
+Bill Gates
+Steve Jobs
+Alan Turing
+Windows
+Deepin
+Inferno
+Linux
+Android
+MacOS
+Unix
+Operational Systems
+Cybersecurity
+Cyberattack
